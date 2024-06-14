@@ -21,8 +21,8 @@ This is a basic Spring Boot application for managing CRUD operations using Mongo
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-spring-boot-project.git
-cd your-spring-boot-project
+git clone https://github.com/Nighthawk4709/SpringBootCRUD.git
+cd SpringBootCRUD
 ```
 
 - Update your Username and Password Inside the application.yml file.
